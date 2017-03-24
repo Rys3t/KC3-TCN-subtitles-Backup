@@ -1,2 +1,1 @@
-# kc3-Traditional-Chinese-subtitles
-translate
+# tcn台詞備份
