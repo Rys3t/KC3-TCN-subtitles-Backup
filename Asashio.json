@@ -11,7 +11,7 @@
         "9": "這樣就能繼續戰鬥了。",
         "10": "對於驅逐艦來說，是不錯的結果。",
         "26": "嗯，不錯。",
-        "27": "I can fight with this.",
+        "27": "有了這些就能繼續戰鬥了！",
         "11": "小小的損傷，也有可能會致命。",
         "12": "沒事的…能夠趕上下次的作戰。",
         "5": "有新的船建造完成。",
@@ -41,14 +41,14 @@
         "27": "感謝司令官！"
     },
     "463": {
-        "1": "Destroyer Asashio here. I've received my remodel! I'm prepared to strive even further, so that I can be of more use to the fleet. I'll be in your care!",
+        "1": "驅逐艦，朝潮。改造已經順利完成了。想要為如今的<br/>艦隊盡自己的一份力，朝潮已經做好了覺悟。請多多指教！",
         "4": "司令官…是的！那份約定…和司令官重要的約定，我絕對會<br/>守護到底的！",
         "13": "第八驅逐隊，旗艦朝潮，出擊！",
-        "19": "Ugh! Ow, ow, ow... Arashio...? Are you alright?",
-        "20": "It hurts... but, even so... I can still assist in combat! I... won't sink so easily!",
-        "21": "Not yet... I can't sink yet... not until I've upheld my promise. Not until then..."
+        "19": "阿！痛呀…荒潮？沒事吧？",
+        "20": "痛啊…但是依然能戰鬥和救援！朝潮…是不會沉沒的！",
+        "21": "沒…還沒有沉沒…那份約定還沒有…完成…"
     },
     "468": {
-        "1": "Destroyer Asashio here. Since my remodel, my survivability and versatility have greatly improved. I'm prepared to be of more use than ever before. I'll be in your care!",
-        "19": "Oh no, we're under fire!? I won't allow this! Anti-aircraft and anti-submarine personnel, be on the lookout!"
+        "1": "驅逐艦，朝潮。基於最新的改裝，朝潮的生存性和適應性都變得<br/>更強，已經做好了做出更多貢獻的覺悟。請多多指教！",
+        "19": "啊討厭，中彈？不會讓你們得逞的！對空對潛警戒，嚴加防範！"
     },
